@@ -112,4 +112,4 @@ if __name__ == '__main__':
     #     img_ctrl_v()
     #     send_msg(win)
     #
-    #     sleep(10)
+    #     sleep(1800)
